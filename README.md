@@ -1,8 +1,10 @@
-# backpack
+# coder backpack
 Code it! 
 
 
 #### Topics Covered
+
+### Prerequisites
 
 ### Skills 
 - [Learn SQL](https://www.codecademy.com/learn/learn-sql)
@@ -16,3 +18,5 @@ Code it!
 - [Relational Databases]()
 
 ### Resources 
+
+### Challenges
